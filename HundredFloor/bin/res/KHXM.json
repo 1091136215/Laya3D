@@ -1,0 +1,3544 @@
+{
+	"1": {
+		"id": 1,
+		"base_block": [
+			1,
+			0,
+			1,
+			0,
+			1,
+			0,
+			1,
+			0,
+			1,
+			0,
+			1,
+			0,
+			1,
+			0,
+			1,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			56,
+			0,
+			0,
+			0
+		]
+	},
+	"2": {
+		"id": 2,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"3": {
+		"id": 3,
+		"base_block": [
+			1,
+			2,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			2,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"4": {
+		"id": 4,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"5": {
+		"id": 5,
+		"base_block": [
+			1,
+			1,
+			2,
+			1,
+			0,
+			0,
+			1,
+			2,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			2,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			2,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			52,
+			56,
+			0,
+			0
+		]
+	},
+	"6": {
+		"id": 6,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"7": {
+		"id": 7,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			5,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			46,
+			0,
+			0,
+			0
+		]
+	},
+	"8": {
+		"id": 8,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			90,
+			0,
+			0,
+			0
+		]
+	},
+	"9": {
+		"id": 9,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			6,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			68,
+			0,
+			0,
+			0
+		]
+	},
+	"10": {
+		"id": 10,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"11": {
+		"id": 11,
+		"base_block": [
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"12": {
+		"id": 12,
+		"base_block": [
+			1,
+			2,
+			2,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"13": {
+		"id": 13,
+		"base_block": [
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			6,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			37,
+			0,
+			0,
+			0
+		]
+	},
+	"14": {
+		"id": 14,
+		"base_block": [
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			2,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"15": {
+		"id": 15,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"16": {
+		"id": 16,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			2,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			3,
+			2,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			66,
+			56,
+			0,
+			0
+		]
+	},
+	"17": {
+		"id": 17,
+		"base_block": [
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"18": {
+		"id": 18,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			6,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			60,
+			0,
+			0,
+			0
+		]
+	},
+	"19": {
+		"id": 19,
+		"base_block": [
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			2,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			54,
+			0,
+			0,
+			0
+		]
+	},
+	"20": {
+		"id": 20,
+		"base_block": [
+			1,
+			2,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			57,
+			0,
+			0,
+			0
+		]
+	},
+	"21": {
+		"id": 21,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"22": {
+		"id": 22,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			2,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			5,
+			2,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			41,
+			56,
+			0,
+			0
+		]
+	},
+	"23": {
+		"id": 23,
+		"base_block": [
+			1,
+			2,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			2,
+			2,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			35,
+			0,
+			0,
+			0
+		]
+	},
+	"24": {
+		"id": 24,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			2,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"25": {
+		"id": 25,
+		"base_block": [
+			1,
+			1,
+			2,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			2,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"26": {
+		"id": 26,
+		"base_block": [
+			1,
+			0,
+			1,
+			0,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"27": {
+		"id": 27,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			0,
+			1,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"28": {
+		"id": 28,
+		"base_block": [
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			2,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			5,
+			2,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			36,
+			56,
+			0,
+			0
+		]
+	},
+	"29": {
+		"id": 29,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0,
+			2,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			7,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			59,
+			0,
+			0,
+			0
+		]
+	},
+	"30": {
+		"id": 30,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"31": {
+		"id": 31,
+		"base_block": [
+			1,
+			2,
+			2,
+			1,
+			0,
+			0,
+			1,
+			2,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			68,
+			0,
+			0,
+			0
+		]
+	},
+	"32": {
+		"id": 32,
+		"base_block": [
+			2,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"33": {
+		"id": 33,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			6,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			61,
+			0,
+			0,
+			0
+		]
+	},
+	"34": {
+		"id": 34,
+		"base_block": [
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			6,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			31,
+			0,
+			0,
+			0
+		]
+	},
+	"35": {
+		"id": 35,
+		"base_block": [
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			2,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			70,
+			0,
+			0,
+			0
+		]
+	},
+	"36": {
+		"id": 36,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			4,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			79,
+			0,
+			0,
+			0
+		]
+	},
+	"37": {
+		"id": 37,
+		"base_block": [
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"38": {
+		"id": 38,
+		"base_block": [
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			5,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			46,
+			0,
+			0,
+			0
+		]
+	},
+	"39": {
+		"id": 39,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"40": {
+		"id": 40,
+		"base_block": [
+			1,
+			2,
+			2,
+			2,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"41": {
+		"id": 41,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			85,
+			0,
+			0,
+			0
+		]
+	},
+	"42": {
+		"id": 42,
+		"base_block": [
+			1,
+			2,
+			2,
+			2,
+			2,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			2,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			81,
+			0,
+			0,
+			0
+		]
+	},
+	"43": {
+		"id": 43,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"44": {
+		"id": 44,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			5,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			32,
+			0,
+			0,
+			0
+		]
+	},
+	"45": {
+		"id": 45,
+		"base_block": [
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			30,
+			0,
+			0,
+			0
+		]
+	},
+	"46": {
+		"id": 46,
+		"base_block": [
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			5,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			75,
+			0,
+			0,
+			0
+		]
+	},
+	"47": {
+		"id": 47,
+		"base_block": [
+			1,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"48": {
+		"id": 48,
+		"base_block": [
+			1,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			2,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			5,
+			2,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			44,
+			56,
+			0,
+			0
+		]
+	},
+	"49": {
+		"id": 49,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"50": {
+		"id": 50,
+		"base_block": [
+			1,
+			1,
+			2,
+			1,
+			2,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"51": {
+		"id": 51,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"52": {
+		"id": 52,
+		"base_block": [
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			57,
+			0,
+			0,
+			0
+		]
+	},
+	"53": {
+		"id": 53,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"54": {
+		"id": 54,
+		"base_block": [
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			86,
+			0,
+			0,
+			0
+		]
+	},
+	"55": {
+		"id": 55,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			2,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			7,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			51,
+			0,
+			0,
+			0
+		]
+	},
+	"56": {
+		"id": 56,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			2,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			2,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			33,
+			56,
+			0,
+			0
+		]
+	},
+	"57": {
+		"id": 57,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"58": {
+		"id": 58,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"59": {
+		"id": 59,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			35,
+			0,
+			0,
+			0
+		]
+	},
+	"60": {
+		"id": 60,
+		"base_block": [
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"61": {
+		"id": 61,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"62": {
+		"id": 62,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			2,
+			1,
+			1,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			88,
+			0,
+			0,
+			0
+		]
+	},
+	"63": {
+		"id": 63,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"64": {
+		"id": 64,
+		"base_block": [
+			1,
+			1,
+			1,
+			2,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			4,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			75,
+			0,
+			0,
+			0
+		]
+	},
+	"65": {
+		"id": 65,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"66": {
+		"id": 66,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0,
+			1,
+			1,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"67": {
+		"id": 67,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"68": {
+		"id": 68,
+		"base_block": [
+			1,
+			2,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"69": {
+		"id": 69,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"70": {
+		"id": 70,
+		"base_block": [
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			8,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			61,
+			0,
+			0,
+			0
+		]
+	},
+	"71": {
+		"id": 71,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"72": {
+		"id": 72,
+		"base_block": [
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			7,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			47,
+			0,
+			0,
+			0
+		]
+	},
+	"73": {
+		"id": 73,
+		"base_block": [
+			1,
+			2,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			2,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			90,
+			0,
+			0,
+			0
+		]
+	},
+	"74": {
+		"id": 74,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			2,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			1,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			51,
+			0,
+			0,
+			0
+		]
+	},
+	"75": {
+		"id": 75,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 1,
+		"sp_block_size": [
+			3,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			7,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			59,
+			0,
+			0,
+			0
+		]
+	},
+	"76": {
+		"id": 76,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			1,
+			1,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	},
+	"77": {
+		"id": 77,
+		"base_block": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			0,
+			0,
+			0
+		],
+		"reversal": 0,
+		"sp_block_size": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_start_pos": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_space": [
+			0,
+			0,
+			0,
+			0
+		],
+		"sp_block_move_speed": [
+			0,
+			0,
+			0,
+			0
+		]
+	}
+}
