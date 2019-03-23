@@ -13,7 +13,7 @@
 				"depthTest":515
 			}
 		],
-		"enableVertexColor":false,
+		"enableVertexColor":true,
 		"alphaTest":false,
 		"alphaTestValue":0.01,
 		"renderQueue":2000,

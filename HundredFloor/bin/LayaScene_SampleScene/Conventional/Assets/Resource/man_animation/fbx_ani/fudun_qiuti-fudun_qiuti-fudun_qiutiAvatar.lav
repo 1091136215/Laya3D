@@ -1,0 +1,25 @@
+{
+	"version":"LAYAAVATAR:01",
+	"rootNode":{
+		"props":{
+			"name":"fudun_qiuti",
+			"translate":[
+				0.0038,
+				0,
+				0
+			],
+			"rotation":[
+				-0.8660254,
+				0,
+				0,
+				-0.4999999
+			],
+			"scale":[
+				0.8,
+				0.8,
+				0.8
+			]
+		},
+		"child":[]
+	}
+}

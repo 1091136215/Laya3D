@@ -31,9 +31,11 @@ export default class FloorBarManager extends Laya.Script3D {
     }
     onEnable() {
         this.timeInterv = 0;
+        if (this.gameObj.getChildAt(0)) {
+            this.gameObj.getChildAt(0).active = false;
+        }
     }
     onUpdate() {
-        return;
         if (this.isDispose) return;
         if (this.gameObj.name === GameMainScene.floorBarType.abnormal && this.rotationData !== 0) {
             this.timeInterv += this.rotationSpeed;
@@ -55,11 +57,11 @@ export default class FloorBarManager extends Laya.Script3D {
     }
     recycleObj(curFloorIndex) {
         if (curFloorIndex - this.floorRecycle >= 0) {
-            var index = this.gameObj.parent.parent.parent.getChildIndex(this.gameObj.parent.parent);
+            let index = this.gameObj.parent.parent.parent.getChildIndex(this.gameObj.parent.parent);
             if (index == curFloorIndex - this.floorRecycle) {
-                var obj = this.gameObj//.parent.removeChild(this.gameObj);
-                this.floorBarPool.putItem(obj.name, obj);
-                // obj.parent && this.floorBarPool.putItem(GameMainScene.floorBarType.blank, obj.parent)
+                if (this.gameObj.name == GameMainScene.floorBarType.abnormal || this.gameObj.name ==
+                    GameMainScene.floorBarType.normal)
+                    this.floorBarPool.putItem(this.gameObj.name, this.gameObj);
             }
         }
     }

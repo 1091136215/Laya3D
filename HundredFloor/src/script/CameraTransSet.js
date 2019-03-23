@@ -2,20 +2,13 @@ export default class CameraTransSet extends Laya.Script3D {
 
     constructor() {
         super();
-        // this.startPos = new Laya.Vector3(0.34, 4.87, -0.62);
-       // this.startPos = new Laya.Vector3(0, -5.15, -1.19);
-       // this.startRotation = new Laya.Vector4(0.062, 0.718, 0.693, -0.015);
-       // this.rotatev3=new Laya.Vector3(37.53,0,0)
+        // this.startPos = new Laya.Vector3(0, -5.15, -1.19);
+        // this.startRotation = new Laya.Vector4(0.03397365063332456, -0.0206223826428884, -0.854162119843573, -0.5184858546007872);
 
     }
     onAwake() {
-        this.camera = this.owner
-        this.setPosAndRotation(true, this.startPos,this.startRotation);
-    }
-    onEnable() {
-    }
-
-    onDisable() {
+        this.camera = this.owner;
+        //  this.setPosAndRotation(true, this.startPos, this.startRotation);
     }
     setPosAndRotation(isInit, pos, rotation, rotate) {
         if (pos) {

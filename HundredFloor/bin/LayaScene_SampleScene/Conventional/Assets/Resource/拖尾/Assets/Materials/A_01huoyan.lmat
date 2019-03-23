@@ -1,0 +1,33 @@
+{
+	"version":"LAYAMATERIAL:02",
+	"props":{
+		"type":"Laya.BlinnPhongMaterial",
+		"name":"A_01huoyan",
+		"renderStates":[
+			{
+				"cull":2,
+				"blend":0,
+				"srcBlend":1,
+				"dstBlend":0,
+				"depthWrite":true,
+				"depthTest":515
+			}
+		],
+		"alphaTest":false,
+		"alphaTestValue":0.5,
+		"renderQueue":2000,
+		"textures":[],
+		"vectors":[
+			{
+				"name":"albedoColor",
+				"value":[
+					0.6517242,
+					0.04312881,
+					0.04312881,
+					1
+				]
+			}
+		],
+		"defines":[]
+	}
+}

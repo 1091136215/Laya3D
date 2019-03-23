@@ -16,7 +16,10 @@ export default class GameUI extends Laya.Scene {
         //预加载unity场景
         Laya.loader.create(resource, Laya.Handler.create(this, this.onLoadFinish));
         //预加载json
-        Laya.loader.load("res/KHXM.json", Laya.Handler.create(this, this.onLoaded), null, Laya.Loader.JSON, 0);
+        Laya.loader.load("res/KHXM.json", null, null, Laya.Loader.JSON, 0);
+        Laya.Texture2D.load("res/2X_qiuti.png")
+        Laya.Texture2D.load("res/fudun_qiuti.png")
+        Laya.Texture2D.load("res/huojian_qiuti.png")
     }
     onLoadFinish() {
         var fightScene = Laya.Loader.getRes("LayaScene_SampleScene/Conventional/SampleScene.ls");

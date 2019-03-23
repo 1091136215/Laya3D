@@ -7,11 +7,6 @@ import CameraTransSet from "./CameraTransSet";
 export default class GameMainScene extends Laya.Script3D {
     constructor() {
         super();
-        // this.mainCamera = 0;
-        // this.mainLight = 0;
-        // this.man = 0;
-        // this.floorBarPrefab = 0;
-        // this.creatFloor = 0;
         this.mainObserver = new Observer();
     }
     onAwake() {
@@ -19,28 +14,38 @@ export default class GameMainScene extends Laya.Script3D {
     }
     onStart() {
         var mainCamera = this.scene.getChildByName("Main Camera");
-        mainCamera.addComponent(CameraManager);
-        mainCamera.addComponent(CameraTransSet);
+        //mainCamera.addComponent(CameraManager);
+        //mainCamera.addComponent(CameraTransSet);
         var mainLight = this.scene.getChildByName("Directional Light");
-        //地板块预制体
+        var doublePrefab = this.scene.getChildByName("DOUBLEMARK");
+        var defence = this.scene.getChildByName("DEFENCE");
+        var rocket = this.scene.getChildByName("ROCKET");
+        //地板预制体
         var floorBarPrefab = this.scene.getChildByName("FloorBar");
-        //空地板预制体
-        var blankFloorPrefab = this.scene.getChildByName("BlankFloor");
-        //地板(复合)
+        // //空地板预制体
+        // var blankFloorPrefab = this.scene.getChildByName("BlankFloor");
+        //地板容器
         var creatFloor = this.scene.getChildByName("FloorCreat");
-        creatFloor.addComponent(FloorCreateManager).floorBarPrefab = floorBarPrefab;
-        creatFloor.getComponent(FloorCreateManager).blankFloorPrefab = blankFloorPrefab;
-      // creatFloor.addComponent(FloorMoveManager);
+        var prefabArr = [floorBarPrefab, doublePrefab, defence, rocket];
+        creatFloor.addComponent(FloorCreateManager).prefabArr = prefabArr;
+        creatFloor.addComponent(FloorMoveManager);
+        //撞击特效模型
+        var landColliEft = this.scene.getChildByName("LandColliEft");
         //获取小球
         var man = this.scene.getChildByName("Man");
-       man.addComponent(ManManager).floorContainer = creatFloor;
-       man.getComponent(ManManager).camera = mainCamera;
+        man.addComponent(ManManager).floorContainer = creatFloor;
+        var manScript = man.getComponent(ManManager);
+        manScript.camera = mainCamera;
+        manScript.landColliEft = landColliEft;
 
     }
 }
 GameMainScene.floorBarType = {
     normal: "NORMAL",
     abnormal: "ABNORMAL",
-    blank: "BLANK",
-    stillObstacle: "STILLOBSTACLE"
+    stillObstacle: "STILLOBSTACLE",
+    doubleMark: "DOUBLEMARK",
+    defence: "DEFENCE",
+    rocket: "ROCKET"
+
 }

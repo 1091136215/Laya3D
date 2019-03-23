@@ -156,7 +156,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -177,12 +176,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -210,7 +203,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -231,12 +223,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -264,7 +250,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -285,12 +270,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -318,7 +297,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -339,12 +317,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -372,7 +344,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -393,12 +364,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -426,7 +391,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -447,12 +411,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -480,7 +438,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -501,12 +458,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -534,7 +485,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -555,12 +505,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -588,7 +532,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -609,12 +552,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -642,7 +579,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -663,12 +599,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -696,7 +626,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -717,12 +646,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -750,7 +673,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -771,12 +693,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -804,7 +720,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -825,12 +740,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -858,7 +767,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -879,12 +787,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -912,7 +814,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -933,12 +834,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -966,7 +861,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -987,12 +881,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1020,7 +908,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1041,12 +928,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1102,7 +983,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1123,12 +1003,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1156,7 +1030,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1177,12 +1050,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1210,7 +1077,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1231,12 +1097,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1264,7 +1124,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1285,12 +1144,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1318,7 +1171,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1339,12 +1191,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1372,7 +1218,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1393,12 +1238,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1426,7 +1265,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1447,12 +1285,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1480,7 +1312,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1501,12 +1332,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1534,7 +1359,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1555,12 +1379,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1588,7 +1406,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1609,12 +1426,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1642,7 +1453,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1663,12 +1473,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1696,7 +1500,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1717,12 +1520,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1750,7 +1547,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1771,12 +1567,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1804,7 +1594,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1825,12 +1614,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1858,7 +1641,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1879,12 +1661,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1912,7 +1688,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1933,12 +1708,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -1966,7 +1735,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -1987,12 +1755,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2048,7 +1810,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2069,12 +1830,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2102,7 +1857,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2123,12 +1877,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2156,7 +1904,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2177,12 +1924,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2210,7 +1951,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2231,12 +1971,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2264,7 +1998,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2285,12 +2018,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2318,7 +2045,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2339,12 +2065,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2372,7 +2092,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2393,12 +2112,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2426,7 +2139,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2447,12 +2159,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2480,7 +2186,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2501,12 +2206,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2534,7 +2233,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2555,12 +2253,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2588,7 +2280,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2609,12 +2300,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2642,7 +2327,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2663,12 +2347,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2696,7 +2374,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2717,12 +2394,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2750,7 +2421,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2771,12 +2441,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2804,7 +2468,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2825,12 +2488,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2858,7 +2515,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2879,12 +2535,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2912,7 +2562,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -2933,12 +2582,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -2994,7 +2637,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3015,12 +2657,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3048,7 +2684,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3069,12 +2704,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3102,7 +2731,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3123,12 +2751,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3156,7 +2778,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3177,12 +2798,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3210,7 +2825,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3231,12 +2845,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3264,7 +2872,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3285,12 +2892,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3318,7 +2919,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3339,12 +2939,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3372,7 +2966,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3393,12 +2986,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3426,7 +3013,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3447,12 +3033,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3480,7 +3060,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3501,12 +3080,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3534,7 +3107,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3555,12 +3127,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3588,7 +3154,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3609,12 +3174,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3642,7 +3201,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3663,12 +3221,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3696,7 +3248,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3717,12 +3268,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3750,7 +3295,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3771,12 +3315,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3804,7 +3342,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3825,12 +3362,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3858,7 +3389,6 @@
 										1,
 										1
 									],
-									"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 									"enableRender":true,
 									"materials":[
 										{
@@ -3879,12 +3409,6 @@
 											}
 										],
 										"isTrigger":true
-									},
-									{
-										"type":"Animator",
-										"layers":[],
-										"cullingMode":0,
-										"playOnWake":true
 									}
 								],
 								"child":[]
@@ -3942,7 +3466,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -3963,12 +3486,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -3996,7 +3513,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4017,12 +3533,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4050,7 +3560,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4071,12 +3580,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4104,7 +3607,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4125,12 +3627,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4158,7 +3654,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4179,12 +3674,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4212,7 +3701,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4233,12 +3721,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4266,7 +3748,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4287,12 +3768,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4320,7 +3795,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4341,12 +3815,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4374,7 +3842,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4395,12 +3862,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4428,7 +3889,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4449,12 +3909,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4482,7 +3936,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4503,12 +3956,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4536,7 +3983,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4557,12 +4003,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4590,7 +4030,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4611,12 +4050,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4644,7 +4077,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4665,12 +4097,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4698,7 +4124,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4719,12 +4144,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4752,7 +4171,6 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/Resource/man3/model/huan_1-Object001.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -4773,12 +4191,6 @@
 									}
 								],
 								"isTrigger":true
-							},
-							{
-								"type":"Animator",
-								"layers":[],
-								"cullingMode":0,
-								"playOnWake":true
 							}
 						],
 						"child":[]
@@ -4789,12 +4201,12 @@
 				"type":"Sprite3D",
 				"props":{
 					"name":"BlankFloor",
-					"active":true,
+					"active":false,
 					"isStatic":false,
 					"layer":0,
 					"position":[
 						0,
-						-1.2,
+						-1.35,
 						0
 					],
 					"rotation":[
@@ -4843,7 +4255,7 @@
 					"isStatic":false,
 					"layer":0,
 					"position":[
-						0,
+						2.11,
 						0,
 						0
 					],
@@ -4917,50 +4329,6 @@
 				"child":[]
 			},
 			{
-				"type":"Camera",
-				"props":{
-					"name":"Main Camera",
-					"active":true,
-					"isStatic":false,
-					"layer":0,
-					"position":[
-						0.444,
-						0.47,
-						-4.015
-					],
-					"rotation":[
-						0,
-						0.9833978,
-						0.1814632,
-						0
-					],
-					"scale":[
-						1,
-						1,
-						1
-					],
-					"clearFlag":1,
-					"orthographic":false,
-					"fieldOfView":60,
-					"nearPlane":0.3,
-					"farPlane":1000,
-					"viewport":[
-						0,
-						0,
-						1,
-						1
-					],
-					"clearColor":[
-						0.1921569,
-						0.3019608,
-						0.4745098,
-						0
-					]
-				},
-				"components":[],
-				"child":[]
-			},
-			{
 				"type":"Sprite3D",
 				"props":{
 					"name":"GameObject (1)",
@@ -4996,7 +4364,7 @@
 					"layer":0,
 					"position":[
 						0.209,
-						0.53,
+						1.5,
 						-1.11
 					],
 					"rotation":[
@@ -5081,31 +4449,31 @@
 									"time":0,
 									"inTangent":0,
 									"outTangent":0,
-									"value":0
+									"value":0.07406616
 								},
 								{
 									"time":0.01668358,
 									"inTangent":3.644581,
 									"outTangent":3.644581,
-									"value":0
+									"value":0.07406616
 								},
 								{
 									"time":0.1942916,
 									"inTangent":-0.137603,
 									"outTangent":-0.137603,
-									"value":0.08545238
+									"value":0.1595185
 								},
 								{
 									"time":0.7369446,
 									"inTangent":-1.498793,
 									"outTangent":-1.498793,
-									"value":0.004852295
+									"value":0.07891846
 								},
 								{
 									"time":1,
 									"inTangent":-1.389923,
 									"outTangent":-1.389923,
-									"value":0
+									"value":0.07406616
 								}
 							],
 							"colorGradient":{
@@ -5172,6 +4540,311 @@
 						},
 						"components":[],
 						"child":[]
+					},
+					{
+						"type":"ShuriKenParticle3D",
+						"props":{
+							"name":"star (1)",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0.009,
+								0.009,
+								-0.001
+							],
+							"rotation":[
+								0,
+								0,
+								0,
+								-1
+							],
+							"scale":[
+								0.1,
+								0.1,
+								0.1
+							],
+							"isPerformanceMode":true,
+							"duration":5,
+							"looping":true,
+							"prewarm":false,
+							"startDelayType":0,
+							"startDelay":0,
+							"startDelayMin":0,
+							"startDelayMax":0,
+							"startLifetimeType":0,
+							"startLifetimeConstant":0.2,
+							"startLifetimeConstantMin":0,
+							"startLifetimeConstantMax":0.2,
+							"startLifetimeGradient":{
+								"startLifetimes":[]
+							},
+							"startLifetimeGradientMin":{
+								"startLifetimes":[]
+							},
+							"startLifetimeGradientMax":{
+								"startLifetimes":[]
+							},
+							"startSpeedType":0,
+							"startSpeedConstant":2,
+							"startSpeedConstantMin":0,
+							"startSpeedConstantMax":2,
+							"threeDStartSize":false,
+							"startSizeType":2,
+							"startSizeConstant":1.5,
+							"startSizeConstantMin":1,
+							"startSizeConstantMax":1.5,
+							"startSizeConstantSeparate":[
+								1.5,
+								1,
+								1
+							],
+							"startSizeConstantMinSeparate":[
+								1,
+								1,
+								1
+							],
+							"startSizeConstantMaxSeparate":[
+								1.5,
+								1,
+								1
+							],
+							"threeDStartRotation":false,
+							"startRotationType":0,
+							"startRotationConstant":0,
+							"startRotationConstantMin":0,
+							"startRotationConstantMax":0,
+							"startRotationConstantSeparate":[
+								0,
+								0,
+								0
+							],
+							"startRotationConstantMinSeparate":[
+								0,
+								0,
+								0
+							],
+							"startRotationConstantMaxSeparate":[
+								0,
+								0,
+								0
+							],
+							"randomizeRotationDirection":0,
+							"startColorType":2,
+							"startColorConstant":[
+								1,
+								1,
+								1,
+								1
+							],
+							"startColorConstantMin":[
+								1,
+								0.9578287,
+								0.8897059,
+								1
+							],
+							"startColorConstantMax":[
+								1,
+								1,
+								1,
+								1
+							],
+							"gravity":[
+								0,
+								-9.81,
+								0
+							],
+							"gravityModifier":0,
+							"simulationSpace":0,
+							"scaleMode":1,
+							"playOnAwake":true,
+							"maxParticles":1000,
+							"autoRandomSeed":true,
+							"randomSeed":2.406952E+09,
+							"emission":{
+								"enable":true,
+								"emissionRate":100,
+								"emissionRateTip":"Time",
+								"bursts":[]
+							},
+							"shape":{
+								"enable":true,
+								"shapeType":0,
+								"sphereRadius":1,
+								"sphereEmitFromShell":false,
+								"sphereRandomDirection":0,
+								"hemiSphereRadius":1,
+								"hemiSphereEmitFromShell":false,
+								"hemiSphereRandomDirection":0,
+								"coneAngle":25,
+								"coneRadius":1,
+								"coneLength":5,
+								"coneEmitType":0,
+								"coneRandomDirection":0,
+								"boxX":1,
+								"boxY":1,
+								"boxZ":1,
+								"boxRandomDirection":0,
+								"circleRadius":1,
+								"circleArc":360,
+								"circleEmitFromEdge":false,
+								"circleRandomDirection":0
+							},
+							"sizeOverLifetime":{
+								"enable":true,
+								"size":{
+									"type":0,
+									"separateAxes":false,
+									"gradient":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientX":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientY":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									},
+									"gradientZ":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									},
+									"constantMin":0,
+									"constantMax":0,
+									"constantMinSeparate":[
+										0,
+										0,
+										0
+									],
+									"constantMaxSeparate":[
+										0,
+										0,
+										0
+									],
+									"gradientMin":{
+										"sizes":[]
+									},
+									"gradientMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientXMin":{
+										"sizes":[]
+									},
+									"gradientXMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientYMin":{
+										"sizes":[]
+									},
+									"gradientYMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									},
+									"gradientZMin":{
+										"sizes":[]
+									},
+									"gradientZMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									}
+								}
+							},
+							"renderMode":0,
+							"stretchedBillboardCameraSpeedScale":0,
+							"stretchedBillboardSpeedScale":0,
+							"stretchedBillboardLengthScale":2,
+							"sortingFudge":0,
+							"material":{
+								"type":"Laya.ShurikenParticleMaterial",
+								"path":"Assets/Resource/拖尾/Assets/Materials/A_01huoyan 1.lmat"
+							}
+						},
+						"components":[],
+						"child":[]
 					}
 				]
 			},
@@ -5219,12 +4892,2165 @@
 							}
 						],
 						"isTrigger":true
+					}
+				],
+				"child":[]
+			},
+			{
+				"type":"Camera",
+				"props":{
+					"name":"Main Camera",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						-0.612,
+						4.71,
+						-6.039
+					],
+					"rotation":[
+						0.01518615,
+						0.924894,
+						0.3781014,
+						-0.03714765
+					],
+					"scale":[
+						1,
+						1,
+						1
+					],
+					"clearFlag":1,
+					"orthographic":false,
+					"fieldOfView":60,
+					"nearPlane":0.3,
+					"farPlane":1000,
+					"viewport":[
+						0,
+						0,
+						1,
+						1
+					],
+					"clearColor":[
+						0.1921569,
+						0.3019608,
+						0.4745098,
+						0
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"FloorBar (1)",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						-1.164,
+						0
+					],
+					"rotation":[
+						0.7034557,
+						-0.0717645,
+						-0.0717645,
+						-0.7034557
+					],
+					"scale":[
+						1,
+						1,
+						1
+					],
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/Resource/man3/Materials/base白色块.lmat"
+						}
+					]
+				},
+				"components":[
+					{
+						"type":"PhysicsCollider",
+						"restitution":0,
+						"friction":0.5,
+						"rollingFriction":0,
+						"shapes":[
+							{
+								"type":"MeshColliderShape",
+								"mesh":"Assets/Resource/man3/model/huan_1-Object001.lm"
+							}
+						],
+						"isTrigger":true
+					}
+				],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"FloorBar (2)",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						-2.79,
+						0
+					],
+					"rotation":[
+						0.6363528,
+						-0.3083102,
+						-0.3083102,
+						-0.6363528
+					],
+					"scale":[
+						1,
+						1,
+						1
+					],
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/Resource/man3/Materials/base白色块.lmat"
+						}
+					]
+				},
+				"components":[
+					{
+						"type":"PhysicsCollider",
+						"restitution":0,
+						"friction":0.5,
+						"rollingFriction":0,
+						"shapes":[
+							{
+								"type":"MeshColliderShape",
+								"mesh":"Assets/Resource/man3/model/huan_1-Object001.lm"
+							}
+						],
+						"isTrigger":true
+					}
+				],
+				"child":[]
+			},
+			{
+				"type":"Sprite3D",
+				"props":{
+					"name":"dimian",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0,
+						0
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1,
+						1,
+						1
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"tuiwei_chengseqiui",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0.291,
+						0.279,
+						-1.11
+					],
+					"rotation":[
+						0.7069787,
+						0.0134587,
+						0.0134587,
+						-0.7069787
+					],
+					"scale":[
+						20,
+						20,
+						20
+					],
+					"meshPath":"Assets/Resource/拖尾/Assets/model/bantou_qiuti-Sphere013.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/Resource/拖尾/Assets/Materials/A_03chengseqiu.lmat"
+						}
+					]
+				},
+				"components":[
+					{
+						"type":"Rigidbody3D",
+						"mass":1,
+						"isKinematic":false,
+						"restitution":0,
+						"friction":0.5,
+						"rollingFriction":0,
+						"linearDamping":0,
+						"angularDamping":0,
+						"overrideGravity":false,
+						"gravity":[
+							0,
+							0,
+							0
+						],
+						"shapes":[
+							{
+								"type":"SphereColliderShape",
+								"center":[
+									0,
+									-1.862645E-09,
+									0
+								],
+								"radius":0.02414145
+							}
+						],
+						"isTrigger":false
+					}
+				],
+				"child":[
+					{
+						"type":"ShuriKenParticle3D",
+						"props":{
+							"name":"star",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0,
+								0,
+								0
+							],
+							"rotation":[
+								0,
+								0,
+								0,
+								-1
+							],
+							"scale":[
+								0.4586445,
+								0.4586445,
+								0.4586445
+							],
+							"isPerformanceMode":true,
+							"duration":5,
+							"looping":true,
+							"prewarm":false,
+							"startDelayType":0,
+							"startDelay":0,
+							"startDelayMin":0,
+							"startDelayMax":0,
+							"startLifetimeType":0,
+							"startLifetimeConstant":0.2,
+							"startLifetimeConstantMin":0,
+							"startLifetimeConstantMax":0.2,
+							"startLifetimeGradient":{
+								"startLifetimes":[]
+							},
+							"startLifetimeGradientMin":{
+								"startLifetimes":[]
+							},
+							"startLifetimeGradientMax":{
+								"startLifetimes":[]
+							},
+							"startSpeedType":0,
+							"startSpeedConstant":2,
+							"startSpeedConstantMin":0,
+							"startSpeedConstantMax":2,
+							"threeDStartSize":false,
+							"startSizeType":2,
+							"startSizeConstant":1.5,
+							"startSizeConstantMin":1,
+							"startSizeConstantMax":1.5,
+							"startSizeConstantSeparate":[
+								1.5,
+								1,
+								1
+							],
+							"startSizeConstantMinSeparate":[
+								1,
+								1,
+								1
+							],
+							"startSizeConstantMaxSeparate":[
+								1.5,
+								1,
+								1
+							],
+							"threeDStartRotation":false,
+							"startRotationType":0,
+							"startRotationConstant":0,
+							"startRotationConstantMin":0,
+							"startRotationConstantMax":0,
+							"startRotationConstantSeparate":[
+								0,
+								0,
+								0
+							],
+							"startRotationConstantMinSeparate":[
+								0,
+								0,
+								0
+							],
+							"startRotationConstantMaxSeparate":[
+								0,
+								0,
+								0
+							],
+							"randomizeRotationDirection":0,
+							"startColorType":2,
+							"startColorConstant":[
+								1,
+								1,
+								1,
+								1
+							],
+							"startColorConstantMin":[
+								1,
+								0.9578287,
+								0.8897059,
+								1
+							],
+							"startColorConstantMax":[
+								1,
+								1,
+								1,
+								1
+							],
+							"gravity":[
+								0,
+								-9.81,
+								0
+							],
+							"gravityModifier":0,
+							"simulationSpace":0,
+							"scaleMode":1,
+							"playOnAwake":true,
+							"maxParticles":1000,
+							"autoRandomSeed":true,
+							"randomSeed":0,
+							"emission":{
+								"enable":true,
+								"emissionRate":100,
+								"emissionRateTip":"Time",
+								"bursts":[]
+							},
+							"shape":{
+								"enable":true,
+								"shapeType":0,
+								"sphereRadius":1,
+								"sphereEmitFromShell":false,
+								"sphereRandomDirection":0,
+								"hemiSphereRadius":1,
+								"hemiSphereEmitFromShell":false,
+								"hemiSphereRandomDirection":0,
+								"coneAngle":25,
+								"coneRadius":1,
+								"coneLength":5,
+								"coneEmitType":0,
+								"coneRandomDirection":0,
+								"boxX":1,
+								"boxY":1,
+								"boxZ":1,
+								"boxRandomDirection":0,
+								"circleRadius":1,
+								"circleArc":360,
+								"circleEmitFromEdge":false,
+								"circleRandomDirection":0
+							},
+							"sizeOverLifetime":{
+								"enable":true,
+								"size":{
+									"type":0,
+									"separateAxes":false,
+									"gradient":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientX":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientY":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									},
+									"gradientZ":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									},
+									"constantMin":0,
+									"constantMax":0,
+									"constantMinSeparate":[
+										0,
+										0,
+										0
+									],
+									"constantMaxSeparate":[
+										0,
+										0,
+										0
+									],
+									"gradientMin":{
+										"sizes":[]
+									},
+									"gradientMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientXMin":{
+										"sizes":[]
+									},
+									"gradientXMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0.6743317
+											},
+											{
+												"key":0.498112,
+												"value":0.9003817
+											},
+											{
+												"key":1,
+												"value":0.3294983
+											}
+										]
+									},
+									"gradientYMin":{
+										"sizes":[]
+									},
+									"gradientYMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									},
+									"gradientZMin":{
+										"sizes":[]
+									},
+									"gradientZMax":{
+										"sizes":[
+											{
+												"key":0,
+												"value":0
+											},
+											{
+												"key":1,
+												"value":1
+											}
+										]
+									}
+								}
+							},
+							"renderMode":0,
+							"stretchedBillboardCameraSpeedScale":0,
+							"stretchedBillboardSpeedScale":0,
+							"stretchedBillboardLengthScale":2,
+							"sortingFudge":0,
+							"material":{
+								"type":"Laya.ShurikenParticleMaterial",
+								"path":"Assets/Resource/man_animation/fbx_ani/sekuai_1.lmat"
+							}
+						},
+						"components":[],
+						"child":[]
 					},
 					{
-						"type":"Animator",
-						"layers":[],
-						"cullingMode":0,
-						"playOnWake":true
+						"type":"TrailSprite3D",
+						"props":{
+							"name":"tuiwei",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0,
+								0,
+								0
+							],
+							"rotation":[
+								0,
+								0,
+								-0.01903348,
+								-0.9998189
+							],
+							"scale":[
+								0.5,
+								0.5000001,
+								0.5000002
+							],
+							"time":0.25,
+							"minVertexDistance":0.01,
+							"widthMultiplier":1.1,
+							"textureMode":0,
+							"widthCurve":[
+								{
+									"time":0,
+									"inTangent":0,
+									"outTangent":0,
+									"value":0.3984985
+								},
+								{
+									"time":0.01668358,
+									"inTangent":3.644581,
+									"outTangent":3.644581,
+									"value":0.3984985
+								},
+								{
+									"time":0.1942916,
+									"inTangent":-0.137603,
+									"outTangent":-0.137603,
+									"value":0.8378785
+								},
+								{
+									"time":0.7275757,
+									"inTangent":-1.498793,
+									"outTangent":-1.498793,
+									"value":0.4879785
+								},
+								{
+									"time":1,
+									"inTangent":-1.389923,
+									"outTangent":-1.389923,
+									"value":0.09090805
+								}
+							],
+							"colorGradient":{
+								"mode":0,
+								"colorKeys":[
+									{
+										"time":0,
+										"value":[
+											1,
+											1,
+											1
+										]
+									},
+									{
+										"time":0.05587854,
+										"value":[
+											1,
+											0.8269897,
+											0.6323529
+										]
+									},
+									{
+										"time":0.2911727,
+										"value":[
+											0.7538911,
+											0.580363,
+											0.2771658
+										]
+									},
+									{
+										"time":1,
+										"value":[
+											0,
+											0,
+											0
+										]
+									}
+								],
+								"alphaKeys":[
+									{
+										"time":0,
+										"value":0
+									},
+									{
+										"time":0.06471352,
+										"value":1
+									},
+									{
+										"time":0.3000076,
+										"value":0.9435175
+									},
+									{
+										"time":1,
+										"value":0
+									}
+								]
+							},
+							"materials":[
+								{
+									"type":"Laya.TrailMaterial",
+									"path":"Assets/Resource/拖尾/Assets/Materials/A_02tuowei.lmat"
+								}
+							]
+						},
+						"components":[],
+						"child":[]
+					}
+				]
+			},
+			{
+				"type":"Sprite3D",
+				"props":{
+					"name":"Mans",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0.69,
+						0.631
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						0.5,
+						0.5,
+						0.5
+					]
+				},
+				"components":[],
+				"child":[
+					{
+						"type":"MeshSprite3D",
+						"props":{
+							"name":"tuiwei_lanqiu",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0,
+								0,
+								0
+							],
+							"rotation":[
+								0.7069787,
+								0.0134587,
+								0.0134587,
+								-0.7069787
+							],
+							"scale":[
+								20,
+								20,
+								20
+							],
+							"meshPath":"Assets/Resource/拖尾/Assets/model/bantou_qiuti-Sphere013.lm",
+							"enableRender":true,
+							"materials":[
+								{
+									"type":"Laya.BlinnPhongMaterial",
+									"path":"Assets/Resource/拖尾/Assets/Materials/A_02lanqiu.lmat"
+								}
+							]
+						},
+						"components":[],
+						"child":[
+							{
+								"type":"TrailSprite3D",
+								"props":{
+									"name":"tuiwei",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										0,
+										0,
+										0
+									],
+									"rotation":[
+										0,
+										0,
+										-0.01903348,
+										-0.9998189
+									],
+									"scale":[
+										0.5,
+										0.5000001,
+										0.5000002
+									],
+									"time":0.25,
+									"minVertexDistance":0.01,
+									"widthMultiplier":1.1,
+									"textureMode":0,
+									"widthCurve":[
+										{
+											"time":0,
+											"inTangent":0,
+											"outTangent":0,
+											"value":0.3984985
+										},
+										{
+											"time":0.01668358,
+											"inTangent":3.644581,
+											"outTangent":3.644581,
+											"value":0.3984985
+										},
+										{
+											"time":0.2774291,
+											"inTangent":-0.137603,
+											"outTangent":-0.137603,
+											"value":0.8596185
+										},
+										{
+											"time":1,
+											"inTangent":-3.519257,
+											"outTangent":-3.519257,
+											"value":0.1198997
+										}
+									],
+									"colorGradient":{
+										"mode":0,
+										"colorKeys":[
+											{
+												"time":0,
+												"value":[
+													1,
+													1,
+													1
+												]
+											},
+											{
+												"time":0.1588312,
+												"value":[
+													0.423,
+													0.4654264,
+													1
+												]
+											},
+											{
+												"time":1,
+												"value":[
+													0,
+													0,
+													0
+												]
+											}
+										],
+										"alphaKeys":[
+											{
+												"time":0,
+												"value":0
+											},
+											{
+												"time":0.1617609,
+												"value":1
+											},
+											{
+												"time":0.4823529,
+												"value":0.9435175
+											},
+											{
+												"time":1,
+												"value":0
+											}
+										]
+									},
+									"materials":[
+										{
+											"type":"Laya.TrailMaterial",
+											"path":"Assets/Resource/拖尾/Assets/Materials/A_02tuowei.lmat"
+										}
+									]
+								},
+								"components":[],
+								"child":[]
+							},
+							{
+								"type":"ShuriKenParticle3D",
+								"props":{
+									"name":"star",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										0,
+										0,
+										0
+									],
+									"rotation":[
+										0,
+										0,
+										0,
+										-1
+									],
+									"scale":[
+										0.4586444,
+										0.4586444,
+										0.4586445
+									],
+									"isPerformanceMode":true,
+									"duration":5,
+									"looping":true,
+									"prewarm":false,
+									"startDelayType":0,
+									"startDelay":0,
+									"startDelayMin":0,
+									"startDelayMax":0,
+									"startLifetimeType":0,
+									"startLifetimeConstant":0.2,
+									"startLifetimeConstantMin":0,
+									"startLifetimeConstantMax":0.2,
+									"startLifetimeGradient":{
+										"startLifetimes":[]
+									},
+									"startLifetimeGradientMin":{
+										"startLifetimes":[]
+									},
+									"startLifetimeGradientMax":{
+										"startLifetimes":[]
+									},
+									"startSpeedType":0,
+									"startSpeedConstant":2,
+									"startSpeedConstantMin":0,
+									"startSpeedConstantMax":2,
+									"threeDStartSize":false,
+									"startSizeType":2,
+									"startSizeConstant":1.5,
+									"startSizeConstantMin":1,
+									"startSizeConstantMax":1.5,
+									"startSizeConstantSeparate":[
+										1.5,
+										1,
+										1
+									],
+									"startSizeConstantMinSeparate":[
+										1,
+										1,
+										1
+									],
+									"startSizeConstantMaxSeparate":[
+										1.5,
+										1,
+										1
+									],
+									"threeDStartRotation":false,
+									"startRotationType":0,
+									"startRotationConstant":0,
+									"startRotationConstantMin":0,
+									"startRotationConstantMax":0,
+									"startRotationConstantSeparate":[
+										0,
+										0,
+										0
+									],
+									"startRotationConstantMinSeparate":[
+										0,
+										0,
+										0
+									],
+									"startRotationConstantMaxSeparate":[
+										0,
+										0,
+										0
+									],
+									"randomizeRotationDirection":0,
+									"startColorType":2,
+									"startColorConstant":[
+										1,
+										1,
+										1,
+										1
+									],
+									"startColorConstantMin":[
+										0.7854671,
+										0.7720588,
+										1,
+										1
+									],
+									"startColorConstantMax":[
+										1,
+										1,
+										1,
+										1
+									],
+									"gravity":[
+										0,
+										-9.81,
+										0
+									],
+									"gravityModifier":0,
+									"simulationSpace":0,
+									"scaleMode":1,
+									"playOnAwake":true,
+									"maxParticles":1000,
+									"autoRandomSeed":true,
+									"randomSeed":0,
+									"emission":{
+										"enable":true,
+										"emissionRate":100,
+										"emissionRateTip":"Time",
+										"bursts":[]
+									},
+									"shape":{
+										"enable":true,
+										"shapeType":0,
+										"sphereRadius":1,
+										"sphereEmitFromShell":false,
+										"sphereRandomDirection":0,
+										"hemiSphereRadius":1,
+										"hemiSphereEmitFromShell":false,
+										"hemiSphereRandomDirection":0,
+										"coneAngle":25,
+										"coneRadius":1,
+										"coneLength":5,
+										"coneEmitType":0,
+										"coneRandomDirection":0,
+										"boxX":1,
+										"boxY":1,
+										"boxZ":1,
+										"boxRandomDirection":0,
+										"circleRadius":1,
+										"circleArc":360,
+										"circleEmitFromEdge":false,
+										"circleRandomDirection":0
+									},
+									"sizeOverLifetime":{
+										"enable":true,
+										"size":{
+											"type":0,
+											"separateAxes":false,
+											"gradient":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientX":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientY":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											},
+											"gradientZ":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											},
+											"constantMin":0,
+											"constantMax":0,
+											"constantMinSeparate":[
+												0,
+												0,
+												0
+											],
+											"constantMaxSeparate":[
+												0,
+												0,
+												0
+											],
+											"gradientMin":{
+												"sizes":[]
+											},
+											"gradientMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientXMin":{
+												"sizes":[]
+											},
+											"gradientXMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientYMin":{
+												"sizes":[]
+											},
+											"gradientYMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											},
+											"gradientZMin":{
+												"sizes":[]
+											},
+											"gradientZMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											}
+										}
+									},
+									"renderMode":0,
+									"stretchedBillboardCameraSpeedScale":0,
+									"stretchedBillboardSpeedScale":0,
+									"stretchedBillboardLengthScale":2,
+									"sortingFudge":0,
+									"material":{
+										"type":"Laya.ShurikenParticleMaterial",
+										"path":"Resources/unity_builtin_extra.lmat"
+									}
+								},
+								"components":[],
+								"child":[]
+							}
+						]
+					},
+					{
+						"type":"MeshSprite3D",
+						"props":{
+							"name":"tuiwei_chengseqiui (1)",
+							"active":false,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0,
+								0,
+								0
+							],
+							"rotation":[
+								0.7069787,
+								0.0134587,
+								0.0134587,
+								-0.7069787
+							],
+							"scale":[
+								20,
+								20,
+								20
+							],
+							"meshPath":"Assets/Resource/拖尾/Assets/model/bantou_qiuti-Sphere013.lm",
+							"enableRender":true,
+							"materials":[
+								{
+									"type":"Laya.BlinnPhongMaterial",
+									"path":"Assets/Resource/拖尾/Assets/Materials/A_01huoyan.lmat"
+								}
+							]
+						},
+						"components":[],
+						"child":[
+							{
+								"type":"ShuriKenParticle3D",
+								"props":{
+									"name":"star",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										0,
+										0,
+										0
+									],
+									"rotation":[
+										0,
+										0,
+										0,
+										-1
+									],
+									"scale":[
+										0.4586445,
+										0.4586445,
+										0.4586445
+									],
+									"isPerformanceMode":true,
+									"duration":5,
+									"looping":true,
+									"prewarm":false,
+									"startDelayType":0,
+									"startDelay":0,
+									"startDelayMin":0,
+									"startDelayMax":0,
+									"startLifetimeType":0,
+									"startLifetimeConstant":0.2,
+									"startLifetimeConstantMin":0,
+									"startLifetimeConstantMax":0.2,
+									"startLifetimeGradient":{
+										"startLifetimes":[]
+									},
+									"startLifetimeGradientMin":{
+										"startLifetimes":[]
+									},
+									"startLifetimeGradientMax":{
+										"startLifetimes":[]
+									},
+									"startSpeedType":0,
+									"startSpeedConstant":2,
+									"startSpeedConstantMin":0,
+									"startSpeedConstantMax":2,
+									"threeDStartSize":false,
+									"startSizeType":2,
+									"startSizeConstant":1.5,
+									"startSizeConstantMin":1,
+									"startSizeConstantMax":1.5,
+									"startSizeConstantSeparate":[
+										1.5,
+										1,
+										1
+									],
+									"startSizeConstantMinSeparate":[
+										1,
+										1,
+										1
+									],
+									"startSizeConstantMaxSeparate":[
+										1.5,
+										1,
+										1
+									],
+									"threeDStartRotation":false,
+									"startRotationType":0,
+									"startRotationConstant":0,
+									"startRotationConstantMin":0,
+									"startRotationConstantMax":0,
+									"startRotationConstantSeparate":[
+										0,
+										0,
+										0
+									],
+									"startRotationConstantMinSeparate":[
+										0,
+										0,
+										0
+									],
+									"startRotationConstantMaxSeparate":[
+										0,
+										0,
+										0
+									],
+									"randomizeRotationDirection":0,
+									"startColorType":2,
+									"startColorConstant":[
+										1,
+										1,
+										1,
+										1
+									],
+									"startColorConstantMin":[
+										1,
+										0.9578287,
+										0.8897059,
+										1
+									],
+									"startColorConstantMax":[
+										1,
+										1,
+										1,
+										1
+									],
+									"gravity":[
+										0,
+										-9.81,
+										0
+									],
+									"gravityModifier":0,
+									"simulationSpace":0,
+									"scaleMode":1,
+									"playOnAwake":true,
+									"maxParticles":1000,
+									"autoRandomSeed":true,
+									"randomSeed":0,
+									"emission":{
+										"enable":true,
+										"emissionRate":100,
+										"emissionRateTip":"Time",
+										"bursts":[]
+									},
+									"shape":{
+										"enable":true,
+										"shapeType":0,
+										"sphereRadius":1,
+										"sphereEmitFromShell":false,
+										"sphereRandomDirection":0,
+										"hemiSphereRadius":1,
+										"hemiSphereEmitFromShell":false,
+										"hemiSphereRandomDirection":0,
+										"coneAngle":25,
+										"coneRadius":1,
+										"coneLength":5,
+										"coneEmitType":0,
+										"coneRandomDirection":0,
+										"boxX":1,
+										"boxY":1,
+										"boxZ":1,
+										"boxRandomDirection":0,
+										"circleRadius":1,
+										"circleArc":360,
+										"circleEmitFromEdge":false,
+										"circleRandomDirection":0
+									},
+									"sizeOverLifetime":{
+										"enable":true,
+										"size":{
+											"type":0,
+											"separateAxes":false,
+											"gradient":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientX":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientY":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											},
+											"gradientZ":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											},
+											"constantMin":0,
+											"constantMax":0,
+											"constantMinSeparate":[
+												0,
+												0,
+												0
+											],
+											"constantMaxSeparate":[
+												0,
+												0,
+												0
+											],
+											"gradientMin":{
+												"sizes":[]
+											},
+											"gradientMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientXMin":{
+												"sizes":[]
+											},
+											"gradientXMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0.6743317
+													},
+													{
+														"key":0.498112,
+														"value":0.9003817
+													},
+													{
+														"key":1,
+														"value":0.3294983
+													}
+												]
+											},
+											"gradientYMin":{
+												"sizes":[]
+											},
+											"gradientYMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											},
+											"gradientZMin":{
+												"sizes":[]
+											},
+											"gradientZMax":{
+												"sizes":[
+													{
+														"key":0,
+														"value":0
+													},
+													{
+														"key":1,
+														"value":1
+													}
+												]
+											}
+										}
+									},
+									"renderMode":0,
+									"stretchedBillboardCameraSpeedScale":0,
+									"stretchedBillboardSpeedScale":0,
+									"stretchedBillboardLengthScale":2,
+									"sortingFudge":0,
+									"material":{
+										"type":"Laya.ShurikenParticleMaterial",
+										"path":"Resources/unity_builtin_extra.lmat"
+									}
+								},
+								"components":[],
+								"child":[]
+							},
+							{
+								"type":"TrailSprite3D",
+								"props":{
+									"name":"tuiwei",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										0,
+										0,
+										0
+									],
+									"rotation":[
+										0,
+										0,
+										-0.01903348,
+										-0.9998189
+									],
+									"scale":[
+										0.5,
+										0.5000001,
+										0.5000002
+									],
+									"time":0.25,
+									"minVertexDistance":0.01,
+									"widthMultiplier":1.1,
+									"textureMode":0,
+									"widthCurve":[
+										{
+											"time":0,
+											"inTangent":0,
+											"outTangent":0,
+											"value":0.3984985
+										},
+										{
+											"time":0.01668358,
+											"inTangent":3.644581,
+											"outTangent":3.644581,
+											"value":0.3984985
+										},
+										{
+											"time":0.1942916,
+											"inTangent":-0.137603,
+											"outTangent":-0.137603,
+											"value":0.8378785
+										},
+										{
+											"time":0.7275757,
+											"inTangent":-1.498793,
+											"outTangent":-1.498793,
+											"value":0.4879785
+										},
+										{
+											"time":1,
+											"inTangent":-1.389923,
+											"outTangent":-1.389923,
+											"value":0.09090805
+										}
+									],
+									"colorGradient":{
+										"mode":0,
+										"colorKeys":[
+											{
+												"time":0,
+												"value":[
+													1,
+													1,
+													1
+												]
+											},
+											{
+												"time":0.05587854,
+												"value":[
+													1,
+													0.8269897,
+													0.6323529
+												]
+											},
+											{
+												"time":0.2911727,
+												"value":[
+													0.7538911,
+													0.580363,
+													0.2771658
+												]
+											},
+											{
+												"time":1,
+												"value":[
+													0,
+													0,
+													0
+												]
+											}
+										],
+										"alphaKeys":[
+											{
+												"time":0,
+												"value":0
+											},
+											{
+												"time":0.06471352,
+												"value":1
+											},
+											{
+												"time":0.3000076,
+												"value":0.9435175
+											},
+											{
+												"time":1,
+												"value":0
+											}
+										]
+									},
+									"materials":[
+										{
+											"type":"Laya.TrailMaterial",
+											"path":"Assets/Resource/拖尾/Assets/Materials/A_02tuowei.lmat"
+										}
+									]
+								},
+								"components":[],
+								"child":[]
+							}
+						]
+					}
+				]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"2X_qiu",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0,
+						0
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1,
+						1,
+						1
+					],
+					"meshPath":"Assets/Resource/man_animation/fbx_ani/2X_qiuti-qiu_1.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"type":"Laya.BlinnPhongMaterial",
+							"path":"Assets/Resource/man_animation/fbx_ani/Materials/2X_qiuti.lmat"
+						}
+					]
+				},
+				"components":[],
+				"child":[]
+			},
+			{
+				"type":"Sprite3D",
+				"props":{
+					"name":"DOUBLEMARK",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0,
+						0
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1,
+						1,
+						1
+					]
+				},
+				"components":[],
+				"child":[
+					{
+						"type":"MeshSprite3D",
+						"props":{
+							"name":"DOUBLEMARK",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0.22,
+								0.042,
+								-1.15
+							],
+							"rotation":[
+								-0.8001031,
+								0.3314136,
+								-0.1913417,
+								0.4619398
+							],
+							"scale":[
+								6,
+								6,
+								6
+							],
+							"meshPath":"Assets/Resource/man_animation/fbx_ani/2X_lifang-lifangti_1.lm",
+							"enableRender":true,
+							"materials":[
+								{
+									"path":"Assets/Resource/man_animation/fbx_ani/Materials/2X_lifangti.lmat"
+								}
+							]
+						},
+						"components":[
+							{
+								"type":"PhysicsCollider",
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"shapes":[
+									{
+										"type":"BoxColliderShape",
+										"center":[
+											0,
+											1.516593E-16,
+											0
+										],
+										"size":[
+											0.05193501,
+											0.05193501,
+											0.051935
+										]
+									}
+								],
+								"isTrigger":true
+							},
+							{
+								"type":"Animator",
+								"avatar":{
+									"path":"Assets/Resource/man_animation/fbx_ani/2X_lifang-DOUBLEMARK-2X_lifangAvatar.lav",
+									"linkSprites":{}
+								},
+								"layers":[],
+								"cullingMode":0,
+								"playOnWake":true
+							}
+						],
+						"child":[
+							{
+								"type":"MeshSprite3D",
+								"props":{
+									"name":"2X (1)",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										-1.56884E-09,
+										4.321532E-09,
+										-1.51063E-09
+									],
+									"rotation":[
+										3.066488E-09,
+										-2.931147E-08,
+										-3.985852E-08,
+										-1
+									],
+									"scale":[
+										1,
+										1,
+										1
+									],
+									"meshPath":"Assets/Resource/man_animation/fbx_ani/2X-X2_text.lm",
+									"enableRender":true,
+									"materials":[
+										{
+											"path":"Assets/Resource/man_animation/fbx_ani/Materials/2X.lmat"
+										}
+									]
+								},
+								"components":[
+									{
+										"type":"Animator",
+										"avatar":{
+											"path":"Assets/Resource/man_animation/fbx_ani/2X-2X (1)-2XAvatar.lav",
+											"linkSprites":{}
+										},
+										"layers":[],
+										"cullingMode":0,
+										"playOnWake":true
+									}
+								],
+								"child":[]
+							}
+						]
+					}
+				]
+			},
+			{
+				"type":"Sprite3D",
+				"props":{
+					"name":"DEFENCE",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0,
+						0
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1,
+						1,
+						1
+					]
+				},
+				"components":[],
+				"child":[
+					{
+						"type":"MeshSprite3D",
+						"props":{
+							"name":"DEFENCE",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0.22,
+								0.042,
+								-1.15
+							],
+							"rotation":[
+								-0.8001031,
+								0.3314136,
+								-0.1913417,
+								0.4619398
+							],
+							"scale":[
+								6,
+								6,
+								6
+							],
+							"meshPath":"Assets/Resource/man_animation/fbx_ani/fudun_lifangti-lifangti_2.lm",
+							"enableRender":true,
+							"materials":[
+								{
+									"path":"Assets/Resource/man_animation/textuer/Materials/fudun_lifangti.lmat"
+								}
+							]
+						},
+						"components":[
+							{
+								"type":"PhysicsCollider",
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"shapes":[
+									{
+										"type":"BoxColliderShape",
+										"center":[
+											0,
+											1.516593E-16,
+											0
+										],
+										"size":[
+											0.05193501,
+											0.05193501,
+											0.051935
+										]
+									}
+								],
+								"isTrigger":true
+							},
+							{
+								"type":"Animator",
+								"avatar":{
+									"path":"Assets/Resource/man_animation/fbx_ani/fudun_lifangti-DEFENCE-fudun_lifangtiAvatar.lav",
+									"linkSprites":{}
+								},
+								"layers":[],
+								"cullingMode":0,
+								"playOnWake":true
+							}
+						],
+						"child":[
+							{
+								"type":"MeshSprite3D",
+								"props":{
+									"name":"fudun_qiuti",
+									"active":true,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										0.003799998,
+										4.760562E-09,
+										-2.150933E-09
+									],
+									"rotation":[
+										-0.8660254,
+										7.283803E-10,
+										4.413117E-08,
+										-0.4999999
+									],
+									"scale":[
+										0.8,
+										0.8,
+										0.8000001
+									],
+									"meshPath":"Assets/Resource/man_animation/fbx_ani/fudun_qiuti-qiu_2.lm",
+									"enableRender":true,
+									"materials":[
+										{
+											"path":"Assets/Resource/man_animation/textuer/Materials/fudun_qiuti.lmat"
+										}
+									]
+								},
+								"components":[
+									{
+										"type":"Animator",
+										"avatar":{
+											"path":"Assets/Resource/man_animation/fbx_ani/fudun_qiuti-fudun_qiuti-fudun_qiutiAvatar.lav",
+											"linkSprites":{}
+										},
+										"layers":[],
+										"cullingMode":0,
+										"playOnWake":true
+									}
+								],
+								"child":[]
+							}
+						]
+					}
+				]
+			},
+			{
+				"type":"Sprite3D",
+				"props":{
+					"name":"ROCKET",
+					"active":true,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0,
+						0
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						1,
+						1,
+						1
+					]
+				},
+				"components":[],
+				"child":[
+					{
+						"type":"MeshSprite3D",
+						"props":{
+							"name":"ROCKET",
+							"active":true,
+							"isStatic":false,
+							"layer":0,
+							"position":[
+								0.22,
+								0.042,
+								-1.15
+							],
+							"rotation":[
+								-0.8001031,
+								0.3314136,
+								-0.1913417,
+								0.4619398
+							],
+							"scale":[
+								6,
+								6,
+								6
+							],
+							"meshPath":"Assets/Resource/man_animation/fbx_ani/huojian_lifangti-lifangti_3.lm",
+							"enableRender":true,
+							"materials":[
+								{
+									"path":"Assets/Resource/man_animation/textuer/Materials/huojian_lifangti.lmat"
+								}
+							]
+						},
+						"components":[
+							{
+								"type":"PhysicsCollider",
+								"restitution":0,
+								"friction":0.5,
+								"rollingFriction":0,
+								"shapes":[
+									{
+										"type":"BoxColliderShape",
+										"center":[
+											0,
+											1.516593E-16,
+											0
+										],
+										"size":[
+											0.05193501,
+											0.05193501,
+											0.051935
+										]
+									}
+								],
+								"isTrigger":true
+							},
+							{
+								"type":"Animator",
+								"avatar":{
+									"path":"Assets/Resource/man_animation/fbx_ani/huojian_lifangti-ROCKET-huojian_lifangtiAvatar.lav",
+									"linkSprites":{}
+								},
+								"layers":[],
+								"cullingMode":0,
+								"playOnWake":true
+							}
+						],
+						"child":[
+							{
+								"type":"MeshSprite3D",
+								"props":{
+									"name":"huojian_qiuti",
+									"active":false,
+									"isStatic":false,
+									"layer":0,
+									"position":[
+										-2.014369E-09,
+										-9.999078E-05,
+										0.0001000006
+									],
+									"rotation":[
+										-0.8660254,
+										9.445933E-09,
+										4.518146E-08,
+										-0.4999999
+									],
+									"scale":[
+										1,
+										1,
+										1
+									],
+									"meshPath":"Assets/Resource/man_animation/fbx_ani/huojian_qiuti-qiu_3.lm",
+									"enableRender":true,
+									"materials":[
+										{
+											"type":"Laya.BlinnPhongMaterial",
+											"path":"Assets/Resource/man_animation/textuer/Materials/huojian_qiuti.lmat"
+										}
+									]
+								},
+								"components":[
+									{
+										"type":"Animator",
+										"avatar":{
+											"path":"Assets/Resource/man_animation/fbx_ani/huojian_qiuti-huojian_qiuti-huojian_qiutiAvatar.lav",
+											"linkSprites":{}
+										},
+										"layers":[],
+										"cullingMode":0,
+										"playOnWake":true
+									}
+								],
+								"child":[]
+							}
+						]
+					}
+				]
+			},
+			{
+				"type":"Sprite3D",
+				"props":{
+					"name":"BlankFloorBar",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0,
+						0
+					],
+					"rotation":[
+						0.7071068,
+						0,
+						0,
+						-0.7071068
+					],
+					"scale":[
+						1,
+						1,
+						1
+					]
+				},
+				"components":[
+					{
+						"type":"PhysicsCollider",
+						"restitution":0,
+						"friction":0.5,
+						"rollingFriction":0,
+						"shapes":[
+							{
+								"type":"MeshColliderShape",
+								"mesh":"Assets/Resource/man3/model/huan_1-Object001.lm"
+							}
+						],
+						"isTrigger":true
+					}
+				],
+				"child":[]
+			},
+			{
+				"type":"MeshSprite3D",
+				"props":{
+					"name":"LandColliEft",
+					"active":false,
+					"isStatic":false,
+					"layer":0,
+					"position":[
+						0,
+						0,
+						0
+					],
+					"rotation":[
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale":[
+						0.4,
+						0.01,
+						0.4
+					],
+					"meshPath":"Library/unity default resources-Cube.lm",
+					"enableRender":true,
+					"materials":[
+						{
+							"path":"Assets/Resource/蹦蹦球_碰撞特效/textuer/Materials/dimian.lmat"
+						}
+					]
+				},
+				"components":[
+					{
+						"type":"PhysicsCollider",
+						"restitution":0,
+						"friction":0.5,
+						"rollingFriction":0,
+						"shapes":[
+							{
+								"type":"BoxColliderShape",
+								"center":[
+									0,
+									0,
+									0
+								],
+								"size":[
+									1,
+									1,
+									1
+								]
+							}
+						],
+						"isTrigger":false
 					}
 				],
 				"child":[]

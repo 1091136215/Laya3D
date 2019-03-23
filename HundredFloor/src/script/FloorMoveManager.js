@@ -24,12 +24,11 @@ export default class FloorMoveManager extends Laya.Script3D {
     }
     onUpdate(state) {
         if (this.isDispose) return;
-        var elapsedTime = Laya.timer.delta;
+        let elapsedTime = Laya.timer.delta;
         if (!isNaN(this.lastMouseX) && this.isMouseDown) {
-            var offsetX = Laya.stage.mouseX - this.lastMouseX;
-            var yprElem = this.yawPitchRoll;
+            let offsetX = Laya.stage.mouseX - this.lastMouseX;
+            let yprElem = this.yawPitchRoll;
             yprElem.x += offsetX * this.rotaionSpeed * elapsedTime;
-            // this.updateRotation();
             this.updateRotate(offsetX * this.rotaionSpeed * elapsedTime);
         }
         this.lastMouseX = Laya.stage.mouseX;
@@ -46,11 +45,6 @@ export default class FloorMoveManager extends Laya.Script3D {
     mouseUp(e) {
         //设置bool值
         this.isMouseDown = false;
-    }
-    updateRotation() {
-        Laya.Quaternion.createFromYawPitchRoll(this.yawPitchRoll.x, this.yawPitchRoll.y, this.yawPitchRoll.z, this.tempRotationZ);
-        this.tempRotationZ.cloneTo(this.gameObj.transform.localRotation);
-        this.gameObj.transform.localRotation = this.gameObj.transform.localRotation;
     }
     updateRotate(k) {
         this.gameObj.transform.rotate(new Laya.Vector3(0, k, 0))

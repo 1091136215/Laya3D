@@ -13,10 +13,6 @@ export default class CameraManager extends Laya.Script3D {
         this.tempRotationY = new Laya.Quaternion();
         this.rotaionSpeed = 0.00006;
         this.cameraDebug = true;
-        //0.34,4.87,-0.62 pos
-        //0.062,0.718,0.693,-0.015 rot
-        //this.startPos = new Laya.Vector3(0.34,4.87,-0.62);
-        //this.startRotation = new Laya.Vector4(0.062,0.718,0.693,-0.015);
         //观察者
         this.mainSceneObser = 0;
     }
@@ -27,7 +23,6 @@ export default class CameraManager extends Laya.Script3D {
             Laya.stage.on(Laya.Event.RIGHT_MOUSE_DOWN, this, this.mouseDown);
             Laya.stage.on(Laya.Event.RIGHT_MOUSE_UP, this, this.mouseUp);
         }
-        //this.setPosAndRotation(true, this.startPos, this.startRotation);
         this.mainSceneObser.watch("cameraMove", this.setPosAndRotation.bind(this));
     }
     _onDestroy() {
@@ -39,43 +34,38 @@ export default class CameraManager extends Laya.Script3D {
        
         if (!this.cameraDebug) return;
         Laya.KeyBoardManager.hasKeyDown(37) && this.showPosAndRotation(null,0.01,null);
-        Laya.KeyBoardManager.hasKeyDown(39) && this.showPosAndRotation(null,-0.01,null);
-        Laya.KeyBoardManager.hasKeyDown(38) &&this.updateRotate(null,null,0.01);//E
-        Laya.KeyBoardManager.hasKeyDown(40) &&this.updateRotate(null,null,-0.01);//E
         var elapsedTime = Laya.timer.delta;
-        // if (!isNaN(this.lastMouseX) && !isNaN(this.lastMouseY) && this.isMouseDown) {
-        //     var scene = this.owner.scene;
-        //     Laya.KeyBoardManager.hasKeyDown(87) && this.moveForward(-0.01 * elapsedTime);//W
-        //     Laya.KeyBoardManager.hasKeyDown(83) && this.moveForward(0.01 * elapsedTime);//S
-        //     Laya.KeyBoardManager.hasKeyDown(65) && this.moveRight(-0.01 * elapsedTime);//A
-        //     Laya.KeyBoardManager.hasKeyDown(68) && this.moveRight(0.01 * elapsedTime);//D
-        //     Laya.KeyBoardManager.hasKeyDown(81) && this.moveVertical(0.01 * elapsedTime);//Q
-        //     Laya.KeyBoardManager.hasKeyDown(69) && this.moveVertical(-0.01 * elapsedTime);//E
+        if (!isNaN(this.lastMouseX) && !isNaN(this.lastMouseY) && this.isMouseDown) {
+            var scene = this.owner.scene;
+            Laya.KeyBoardManager.hasKeyDown(87) && this.moveForward(-0.01 * elapsedTime);//W
+            Laya.KeyBoardManager.hasKeyDown(83) && this.moveForward(0.01 * elapsedTime);//S
+            Laya.KeyBoardManager.hasKeyDown(65) && this.moveRight(-0.01 * elapsedTime);//A
+            Laya.KeyBoardManager.hasKeyDown(68) && this.moveRight(0.01 * elapsedTime);//D
+            Laya.KeyBoardManager.hasKeyDown(81) && this.moveVertical(0.01 * elapsedTime);//Q
+            Laya.KeyBoardManager.hasKeyDown(69) && this.moveVertical(-0.01 * elapsedTime);//E
 
-        //     var offsetX = Laya.stage.mouseX - this.lastMouseX;
-        //     var offsetY = Laya.stage.mouseY - this.lastMouseY;
+            var offsetX = Laya.stage.mouseX - this.lastMouseX;
+            var offsetY = Laya.stage.mouseY - this.lastMouseY;
 
-        //     var yprElem = this.yawPitchRoll;
-        //     yprElem.x -= offsetX * this.rotaionSpeed * elapsedTime;
-        //     yprElem.y -= offsetY * this.rotaionSpeed * elapsedTime;
-        //     //this.updateRotation();
-        //    // this.updateRotate(offsetX * this.rotaionSpeed * elapsedTime,offsetY * this.rotaionSpeed * elapsedTime)
-        // }
-        // this.lastMouseX = Laya.stage.mouseX;
-        // this.lastMouseY = Laya.stage.mouseY;
+            var yprElem = this.yawPitchRoll;
+            yprElem.x -= offsetX * this.rotaionSpeed * elapsedTime;
+            yprElem.y -= offsetY * this.rotaionSpeed * elapsedTime;
+            this.updateRotation();
+        }
+        this.lastMouseX = Laya.stage.mouseX;
+        this.lastMouseY = Laya.stage.mouseY;
 
 
     }
     mouseDown(e) {
-        this.showPosAndRotation();
-        // if (!this.cameraDebug) return;
-        // //获得鼠标的旋转值
-        // this.camera.transform.localRotation.getYawPitchRoll(this.yawPitchRoll);
-        // //获得鼠标的xy值
-        // this.lastMouseX = Laya.stage.mouseX;
-        // this.lastMouseY = Laya.stage.mouseY;
-        // //设置bool值
-        // this.isMouseDown = true;
+        if (!this.cameraDebug) return;
+        //获得鼠标的旋转值
+        this.camera.transform.localRotation.getYawPitchRoll(this.yawPitchRoll);
+        //获得鼠标的xy值
+        this.lastMouseX = Laya.stage.mouseX;
+        this.lastMouseY = Laya.stage.mouseY;
+        //设置bool值
+        this.isMouseDown = true;
 
     }
     mouseUp(e) {
@@ -111,11 +101,9 @@ export default class CameraManager extends Laya.Script3D {
     }
 
     updateRotation() {
-       // if (Math.abs(this.yawPitchRoll.y) < 1.50) {
             Laya.Quaternion.createFromYawPitchRoll(this.yawPitchRoll.x, this.yawPitchRoll.y, this.yawPitchRoll.z, this.tempRotationZ);
             this.tempRotationZ.cloneTo(this.camera.transform.localRotation);
             this.camera.transform.localRotation = this.camera.transform.localRotation;
-       // }
     }
     showPosAndRotation() {
         console.log("information:Position");

@@ -17,8 +17,7 @@ export default class Observer {
     notice(key, ...args) {
         for (let obj in this._dictionary[key]) {
             if (this._dictionary[key].hasOwnProperty(obj)) {
-                let element = this._dictionary[key][obj]
-                element(...args);
+                this._dictionary[key][obj](...args);
             }
         }
     }
@@ -29,6 +28,12 @@ export default class Observer {
         if (this._dictionary.hasKey(type)) {
             delete this._dictionary.type;
         }
+    }
+    static getInstance() {
+        if (!this._instance) {
+            this._instance = new Observer();
+        }
+        return this._instance;
     }
 
 }

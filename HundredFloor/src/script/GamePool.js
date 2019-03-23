@@ -3,13 +3,11 @@ export default class GamePool {
         this._pool = {};
     }
     getItem(key) {
-        var obj;
         if (this._pool[key]) {
             if (this._pool[key].length) {
-                obj=this._pool[key].pop();
+                return this._pool[key].pop();
             }
         }
-        return obj;
     }
     putItem(key, obj) {
         obj.active = false;
@@ -20,6 +18,12 @@ export default class GamePool {
             this._pool[key] = [];
             this._pool[key].push(obj);
         }
+    }
+    static getInstance() {
+        if (!this._instance) {
+            this._instance = new GamePool();
+        }
+        return this._instance;
     }
     // getPool(type) {
 
